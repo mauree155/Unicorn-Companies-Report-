@@ -18,6 +18,8 @@ By turning a complex dataset into a visual narrative, this project empowers stak
 -	Understand valuation shifts over time
 -	Track industry-level trends in billion-dollar startup creation
 
+  Access the dataset <a href="https://github.com/mauree155/Unicorn-Companies-Report-/blob/main/Unicorn_Companies.csv">Here</a>
+
  ## 2. Tool used
 #### Power BI
 -	Data Import & Modeling: Imported raw unicorn company data and built a structured data model with clearly defined relationships and calculated fields for year-over-year analysis.
@@ -39,7 +41,7 @@ By turning a complex dataset into a visual narrative, this project empowers stak
 
 ![UNICORN I](https://github.com/user-attachments/assets/86f89071-4d50-458a-b28c-0d04f3d56ede)
  	
-
+ The interactive Dashboard is <a href="https://app.powerbi.com/groups/me/reports/3acd3ada-d65e-4760-9d6d-2e26a0499571/ReportSection?experience=power-bi">Here</a>
 
 ## 3. Key Insights
 The dashboard reveals powerful trends in the evolution of unicorn companies over the 16 years from 2007 to 2022, offering a data-driven window into the global startup landscape.
