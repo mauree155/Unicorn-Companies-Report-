@@ -37,10 +37,11 @@ By turning a complex dataset into a visual narrative, this project empowers stak
 -	Focused on a clean, intuitive layout with consistent color schemes and iconography to ensure easy navigation and executive-level readability.
 -	Prioritized storytelling through visuals, helping viewers not only observe trends but also interpret and act on them.
 
----
+----
 
-![UNICORN I](https://github.com/user-attachments/assets/86f89071-4d50-458a-b28c-0d04f3d56ede)
- 	
+![UNICORN DASHBOARD](https://github.com/user-attachments/assets/fb8274b6-7195-497e-a134-eef0d41d2a12)
+
+
  The interactive Dashboard is <a href="https://app.powerbi.com/groups/me/reports/3acd3ada-d65e-4760-9d6d-2e26a0499571/ReportSection?experience=power-bi">Here</a>
 
 ## 3. Key Insights
@@ -61,13 +62,13 @@ The dashboard reveals powerful trends in the evolution of unicorn companies over
    -	Beijing, Shanghai, Bangalore, and London are also leading urban hubs, indicating innovation clusters around tech infrastructure, capital access, and talent.
 
 ### Industry Breakdown
-- **FinTech & Internet Software Lead:** These two sectors dominate unicorn formation. The FinTech boom reflects growing digital payment systems and neobanks, while Internet Software unicorns span productivity tools, SaaS platforms, and remote tech.
+- **FinTech & Internet Software Lead:** These two sectors dominate unicorn formation. The FinTech boom reflects the growing adoption of digital payment systems and neobanks, while Internet Software unicorns encompass productivity tools, SaaS platforms, and remote technology.
 - **E-Commerce & AI Rising:** E-commerce companies—especially those that thrived during the pandemic—form a strong share. Artificial Intelligence is also on the rise, hinting at the growing importance of automation and machine learning in investor portfolios.
 -	**HealthTech & EdTech** These verticals gained traction post-2020, showing how global crises can reshape funding priorities and innovation trends.
 
 ### Company Valuation
 - **Billion-Dollar Benchmarks:** While all unicorns are valued at $1B+, the dashboard reveals several outliers with much higher valuations (e.g., $10B–$50B), primarily in the U.S. and China.
--	**Private Giants:** Companies like ByteDance (China) and Stripe (U.S.) represent the extreme end of private valuations, often remaining unlisted while reaching public company scales
+-	**Private Giants:** Companies like ByteDance (China) and Stripe (U.S.) represent the end of private valuations, often remaining unlisted while reaching public company scales
 
 ## 4. Recommendations
 ### Market Strategy
