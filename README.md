@@ -1,12 +1,14 @@
 # Unicorn-Companies-Report (2007-2022)
 
 ## Table of contents:
-1. [Project Background](project-background)
-2. [Tool used](tool-used)
-3. [Interactive Dashboard Design](interactive-Dashboard-Design)
-4. [Key Insights](key-insights)
-5. [Recommendations](Recommendations)
-6. [Conclusion](conclusion)
+## Table of Contents
+1. [Project Background](#1-project-background)
+2. [Tool Used](#2-tool-used)
+3. [Interactive Dashboard Design](#3-interactive-dashboard-design)
+4. [Key Insights](#4-key-insights)
+5. [Recommendations](#5-recommendations)
+6. [Conclusion](#6-conclusion)
+
 
 ## 1. Project Background
 The global startup landscape has witnessed an unprecedented transformation over the past decade, marked by the rapid rise of “unicorn” companies — privately held startups valued at over $1 billion. These companies symbolize the pinnacle of innovation, market disruption, and investor confidence in emerging technologies and scalable business models.
@@ -26,7 +28,7 @@ By turning a complex dataset into a visual narrative, this project empowers stak
 -	Power Query Editor: Performed extensive data cleaning, including renaming columns, fixing inconsistent formats, creating year fields from founding dates, and categorizing countries and industries.
 -	DAX (Data Analysis Expressions): Used to create custom measures such as total unicorn count, cumulative growth, average valuation, and top-performing countries or industries.
 
-## Interactive Dashboard Design
+## 3. Interactive Dashboard Design
 - **Slicers:** Enabled dynamic filtering by Country, Industry, and Founding Year, allowing users to explore trends from multiple dimensions.
 -	**Charts & KPIs:** Included clustered column charts, bar graphs, cards, and line charts to visualize:
     - Yearly trends in unicorn creation
@@ -44,7 +46,7 @@ By turning a complex dataset into a visual narrative, this project empowers stak
 
  The interactive Dashboard is <a href="https://app.powerbi.com/groups/me/reports/3acd3ada-d65e-4760-9d6d-2e26a0499571/ReportSection?experience=power-bi">Here</a>
 
-## 3. Key Insights
+## 4. Key Insights
 The dashboard reveals powerful trends in the evolution of unicorn companies over the 16 years from 2007 to 2022, offering a data-driven window into the global startup landscape.
 ### Yearly Growth Patterns
 -	**Explosive Rise in 2021:** Unicorn creation surged dramatically in 2021, with over 500 unicorns added in a single year, representing the largest spike in the entire timeline. This reflects a wave of pandemic-era digital acceleration, abundant venture funding, and a bullish tech market.
@@ -70,7 +72,7 @@ The dashboard reveals powerful trends in the evolution of unicorn companies over
 - **Billion-Dollar Benchmarks:** While all unicorns are valued at $1B+, the dashboard reveals several outliers with much higher valuations (e.g., $10B–$50B), primarily in the U.S. and China.
 -	**Private Giants:** Companies like ByteDance (China) and Stripe (U.S.) represent the end of private valuations, often remaining unlisted while reaching public company scales
 
-## 4. Recommendations
+## 5. Recommendations
 ### Market Strategy
 -	**Track High-Growth Regions:** The United States dominates unicorn creation, accounting for the majority of unicorn companies globally. Startups, investors, and policymakers outside the U.S. can study and adapt best practices in funding, innovation ecosystems, and regulatory environments that have fueled this dominance.
 -	**Monitor Emerging Ecosystems:** Countries like India, China, and the UK show increasing unicorn activity. These regions represent growth corridors for venture capital, cross-border collaborations, and tech expansion.
@@ -84,6 +86,6 @@ The dashboard reveals powerful trends in the evolution of unicorn companies over
 -	**Promote Transparent Unicorn Tracking:** Many unicorns operate in private markets with limited visibility. Encouraging open valuation data and standardized reporting practices can enhance ecosystem transparency, helping startups benchmark effectively and enabling governments to design supportive frameworks.
 - **Foster Local Unicorn Pipelines:** Policymakers in underrepresented regions can invest in accelerators, tech hubs, and early-stage funding to build unicorn pipelines. Supporting entrepreneurial education and infrastructure is key to closing the global unicorn gap.
 
-## 5. Conclusion
+## 6. Conclusion
 The Unicorn Companies Dashboard offers a clear overview of the global startup landscape from 2007 to 2022. It highlights key trends in country performance, industry focus, and investor participation. While the U.S. remains a dominant player, emerging markets like India and the UK are gaining ground. FinTech, SaaS, and AI continue to lead in unicorn creation. The sharp decline in 2022 reminds us that market conditions and investor confidence play a major role in startup success. These insights can guide founders, investors, and policymakers in making informed, forward-thinking decisions.
 
